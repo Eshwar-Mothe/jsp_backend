@@ -1,13 +1,12 @@
 const express = require('express');
+const cors = require('cors');
 const axios = require('axios');
-const cors = require('cors'); // Import the CORS package
 require('dotenv').config();
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = 5000;
 
-app.use(cors()); // Enable CORS for all routes
-
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
@@ -25,7 +24,7 @@ app.get('/videoGallery', async (req, res) => {
             }
         });
 
-        res.json({ data: response.data.items, message: 'fetch success' });
+        res.json({ data: response.data.items, message: 'Fetch success' });
     } catch (error) {
         console.error('Error fetching YouTube videos:', error.message);
         res.status(500).json({ message: 'Failed to fetch videos', error: error.message });
