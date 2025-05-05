@@ -12,8 +12,8 @@ app.use(express.urlencoded({ extended: true }));
 
 app.get('/videoGallery', async (req, res) => {
     try {
-        const apiKey = process.env.REACT_APP_API_KEY;
-        console.log(apiKey)
+        // const apiKey = process.env.REACT_APP_API_KEY;
+        const apiKey = 'AIzaSyBZcflCeB_aoRC9warXZTyA5OcFTa9C_JM';
         const response = await axios.get('https://www.googleapis.com/youtube/v3/search', {
             params: {
                 key: apiKey,
