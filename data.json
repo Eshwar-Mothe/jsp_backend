@@ -1,0 +1,325 @@
+{
+    "districts": [
+        {
+            "Adilabad": [
+                {
+                    "Mandals": {
+                        "ADILABAD_RURAL": [
+                            {
+                                "Villages": ["ANKAPOOR","ANKOLI","ANUKUNTA","ARLI_BUZURG","ASODA_BHURKI","BELLURI","BHEEMSERI","BORENUR","CHANDA","CHICHADHARI","CHINCHUGHAT","DIMMA","GANESHPUR_D","HATHIGUTTA","JAMDAPUR","JAMULDHARI","KACHKANTI","KHANAPOOR","KHANDALA_U","KOTTUR_NEVEGAON","KUMBHAJHERI","LANDASANGVI","LOHARA","LOKARI","MALEBORGAON","MALLAPUR_D","MAREGAON","NISHANGHAT","PIPPALDHARI","POCHARA","RAMAI","RAMPOOR_ROYATI","TAKLI","TARADA_SRIMATH","TIPPA","TONTOTOI","WANWAT","YESAPUR"]
+                            }
+                        ],
+                        "ADILABAD_URBAN": [
+                            {
+                                "Villages": ["ADILABAD_U","BHUKTAPUR","KHANAPUR"]
+                            }
+                        ],
+                        "BAZARHATHNOOR": [
+                            {
+                                "Villages": ["ANANTHAPUR","BALANPUR","BANDREW","BAZARHATHNUR","BHOSRA","BHUTAI_BUZURG","BHUTAI_KHURD","CHINTAL_SANGVI","DEHGAON","DHABADI","DHARAMPURI","DIGNOOR","GANGAPUR","GIRJAI","GIRNUR","GOKONDA","HARKAI","JATARLA","KANDLI","KANKADURGA","KINNERPALLE","KOLHARI","MANKAPUR_P","MOHADA","MORKHANDI","PIPRI","RAMPUR","TEMBI","UMERDA_BUZURG","WARTHAMANOOR","YESAPUR"]
+                            }
+                        ],
+                        "BELA": [
+                            {
+                                "Villages": ["AWALPUR","BELA","BHADI","BHEDODA","BHODOD_KOPSI","BOREGAON","BURHANPUR","CHANDPALLE","CHAPRALA","DATALPUR","DEHEGAON","DHOPTALA","DOUNA","EKORI","GUDA","JUNONI","KAMGARPUR","KARONI_B","KARONI_K","KHADKI","KHAGDUR","KOBHAI","KOPARUZANA","MANGROOL","MANYARPUR","MASALA_BUZURG","MASALA_KHURD","MOHABATPUR","NAGRALA","NARAYANPUR","PATAN","PITGAON","POHAR","PONNALA","RAMKAM","SADARPUR","SAHEJ","SANGDI","SANGVI","SHAMSHABAD","SINGAPUR","SIRSANNA","SONKHOS","SYEDPUR","TAKLI","TOYAGUDA_KORA","WARUR"]
+                            }
+                        ],
+                        "BHEEMPUR": [
+                            {
+                                "Villages": ["ANDARBANDH","ANTARGAON","ARLI_T","BABBAKNCHI","BELSARI","BHEEMPOOR","DHANORA","GOLLAGHAT","GOMUTRI","GONA","GULEDI","GUNJALA","KAMATHWADA","KARANJI","NIPANI","PIPPALKHOTI","TAMSI_K","WADGAON","WADOOR"]}
+                        ],
+                        "BOATH": [
+                            {
+                                "Villages": ["ANDURU","BABERA","BAHRAPUR","BIRLAGONDI","BOATH_K","BOATH_BUZURG","CHINTALABORI","DEMMI","DERA_D","DHANNUR_BUZURG","DHANNUR","GHANPUR","GOLLAPUR","KANGUTTA","KANTEGAON","KESLAPUR","KISTAPUR","KOWTHA_BUZURG","KOWTHA_KHURD","KUCHALAPUR","MARLAPALLE","MEDI","NAGAPUR","NAKKALAWADA","NARAYANPUR","NIGINI","PARDI_BUZURG","PARDI_KHURD","PATNAPUR","PIPPALADHARI","POCHERA","SAKHERA","SANGVI","SONALA","SURADAPUR","TEWTI","VENKATAPUR","WAJAR"]
+                            }
+                        ],
+                        "GADIGUDA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "GUDIHATNOOR": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "ICHODA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "INDERAVELLY": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "JAINAD": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "MAVALA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "NARNOOR": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "NERADIGONDA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "SIRIKONDA": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "TALAMADUGU": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "TAMSI": [
+                            {
+                                "Villages": []
+                            }
+                        ],
+                        "UTNUR": [
+                            {
+                                "Villages": []
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kothagudem": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "HANUMAKONDA_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "HYDERABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "JAGTIAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "JANAGOAN_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "KAMAREDDY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "knr": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "KHAMMAM_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MAHABUBABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MAHABUBNAGAR_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MANCHERIAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MEDAK_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MULUG_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NAGARKARNUOOL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NALGONDA_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NARAYANPET_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NIRMAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "NIZAMABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "PEDDAPALLI_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "RANGAREDDY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "SANGAREDDY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "SIDDIPET_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "SURYAPET_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "VIKARABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "WANAPARTHY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "WARANGAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "JAYASHANKAR_BHOOPALPALLY_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "JOGULAMBA_GADWAL_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "ASIFABAD_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "MEDCHAL_MALKAJGIRI_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "RAJANNA_SIRICILLA_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        },
+        {
+            "YADADRI_BHUVANAGIRI_D": [
+                {
+                    "Mandals": {}
+                }
+            ]
+        }
+    ]
+}
